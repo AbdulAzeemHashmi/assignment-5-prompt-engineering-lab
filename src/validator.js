@@ -15,6 +15,13 @@ function validateForm(data) {
     isValid = false;
   };
 
+  /**
+   * Helper function to validate a field value against a regex pattern.
+   * @param {string} field - The name of the form field.
+   * @param {string} value - The text value to validate.
+   * @param {RegExp} regex - The regular expression pattern.
+   * @param {string} message - The error message if validation fails.
+   */
   const validateFormat = (field, value, regex, message) => {
     if (value !== '' && !regex.test(value)) {
       addError(field, message);
