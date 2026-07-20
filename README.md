@@ -314,6 +314,6 @@ This project includes a full [Responsible AI Usage Policy](./responsible-ai-poli
 
 <img src="https://img.shields.io/github/stars/AbdulAzeemHashmi/assignment-5-prompt-engineering-lab?style=social" />
 
-Made with ?? by [AbdulAzeemHashmi](https://github.com/AbdulAzeemHashmi)
+Made with ❤️ by [AbdulAzeemHashmi](https://github.com/AbdulAzeemHashmi)
 
 </div>
